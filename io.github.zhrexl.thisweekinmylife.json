@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.zhrexl.thisweekinmylife",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "44",
+    "runtime-version" : "46",
     "sdk" : "org.gnome.Sdk",
     "command" : "thisweekinmylife",
     "finish-args" : [
@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/zhrexl/ThisWeekInMyLife.git",
-                    "commit": "3aff1a5678a97650e63ecb2d9334d63cc5eaa176"
+                    "commit": "f9e02155e95a98ebe1c2aa004d4b674b824f09f9"
                 }
             ]
         }
