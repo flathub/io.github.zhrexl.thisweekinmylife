@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/zhrexl/ThisWeekInMyLife.git",
-                    "commit": "7d875908aa77b2842ea58471c185a5ea71f28476"
+                    "commit": "a620a83a05cbb03c0e0688e1a7ab7e287566ec06"
                 }
             ]
         }
